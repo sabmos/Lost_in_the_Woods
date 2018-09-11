@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{E07DE783-4FD3-F814-F98F-D8A47C62AE95}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CaveTrigger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="31" Column="1" />
-      <File FileName="Assets/Scripts/CaveTrigger.cs" Line="21" Column="27" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="17" Column="9" />
+      <File FileName="Assets/Scripts/CaveTrigger.cs" Line="29" Column="5" />
       <File FileName="Assets/Scripts/StopWalkingSound.cs" Line="17" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>

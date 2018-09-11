@@ -10,21 +10,22 @@ The goal of this project was to put together all of the knowledge acquired in th
 - GVR Unity SDK version 1.150.0
 
 ## Videos
+- Achievements Video (shorter walkthru): https://youtu.be/EI7XqCR9Jmg
 - Walkthru on computer with speech: https://youtu.be/OOxo-NI6_oc
 - Demo on Pixel phone: https://youtu.be/0wyaWdGwSbs
 
 ## Achievements
-- Scale achievement
-- Animation achievement
-- Lighting achievement
-- Locomotion achievement
-- Physics achievement
+- Scale achievement: 100
+- Animation achievement: 100
+- Lighting achievement: 100
+- Locomotion achievement: 100
+- Physics achievement: 100
 
-- Alternative Storyline Achievement
-- AI achievement
-- 3D modeling achievement
+- Alternative Storyline Achievement: 250
+- AI achievement: 250
+- 3D modeling achievement: 250
 
-- User Testing achievement
+- User Testing achievement: 500 (250 x 2 because I got 750 points in completeness)
 
 ## Credits
 - Skybox
