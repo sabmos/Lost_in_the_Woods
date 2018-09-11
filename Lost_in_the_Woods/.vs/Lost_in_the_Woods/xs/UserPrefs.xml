@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{E07DE783-4FD3-F814-F98F-D8A47C62AE95}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Dest2Trigger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CaveTrigger.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="24" Column="42" />
-      <File FileName="Assets/Scripts/GameLogic.cs" Line="20" Column="25" />
-      <File FileName="Assets/Scripts/TopOfHillTrigger.cs" Line="14" Column="6" />
-      <File FileName="Assets/Dest2Trigger.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/CaveTrigger.cs" Line="21" Column="27" />
+      <File FileName="Assets/Scripts/StopWalkingSound.cs" Line="17" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

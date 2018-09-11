@@ -17,7 +17,7 @@ public class GameLogic : MonoBehaviour {
 
     void TopOfHillTrigger () {
 
-        Debug.Log("Top of Hill Triggered");
+        // Debug.Log("Top of Hill Triggered");
 
     }
 }

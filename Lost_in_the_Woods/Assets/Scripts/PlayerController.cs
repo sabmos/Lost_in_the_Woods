@@ -11,8 +11,10 @@ public class PlayerController : MonoBehaviour {
     // I am only using this for testing
     private void Start()
     {
+        /* USED FOR TESTING
         Vector3 destinationVector3 = destination.transform.position;
         agent.SetDestination(destinationVector3);
+        */
     }
 
     // Update is called once per frame
